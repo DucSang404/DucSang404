@@ -2,14 +2,14 @@
 
 
 <p align="center">
-  <img src="./images/myself3.png" alt="Nguyễn Đức Sang" height="280px" />
+  <img src="./images/myself3.png" alt="Nguyễn Đức Sang" />
 </p>
 
 
 <table width="100%">
   <tr>
     <!-- Left Column -->
-    <td width="60%" style="vertical-align: top; padding-right: 20px;">
+    <td style="vertical-align: top; padding-right: 20px;">
       <h3>🔹 About Me:</h3>
       <p>📚 I'm currently pursuing a degree in <strong>Information Technology</strong> at <strong>Ho Chi Minh City University of Technology and Education (HCMUTE)</strong>.</p>
       <h4>🚀 Highlights:</h4>
@@ -40,12 +40,7 @@
       </a>
     </p>
     </td>
-    <!-- Right Column -->
-    <td width="40%" style="vertical-align: top;">
-      <h3>🔹 GitHub Stats:</h3>
-      <br><br><br>
-      <img src="https://github-readme-stats.vercel.app/api?username=DucSang404&show_icons=true&locale=en" alt="GitHub Stats" />
-    </td>
+    
   </tr>
 </table>
 
@@ -122,7 +117,7 @@
       
   </tr>
 </table>
-<br><br><br><br><br>
+<br><br><br><br><br><br>
 
 ### **Tools**
 

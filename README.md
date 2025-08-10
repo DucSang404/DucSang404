@@ -1,91 +1,64 @@
-<h1 align="center">Hi 👋, I'm Nguyễn Đức Sang</h1>
+<!-- Banner / Cover -->
+![Header](https://capsule-render.vercel.app/api?type=waving&color=0:3a0ca3,100:4361ee&height=200&section=header&text=Nguyen%20Duc%20Sang&fontSize=45&fontColor=ffffff&animation=fadeIn)
 
+<!-- Introduction -->
+## 👋 About Me
+🎓 Final-year Software Engineering student at **HCMUTE**  
+💻 Passionate about building **scalable, user-friendly web applications**  
+🚀 Skilled in both **Frontend & Backend** development  
+🌱 Always learning new technologies and improving my craft  
+
+---
+
+## 🛠 Tech Stack
+
+**Languages:**  
+![JavaScript](https://img.shields.io/badge/-JavaScript-333?style=flat&logo=javascript) 
+![Java](https://img.shields.io/badge/-Java-333?style=flat&logo=java) 
+![Python](https://img.shields.io/badge/-Python-333?style=flat&logo=python)
+
+**Frameworks & Libraries:**  
+![Node.js](https://img.shields.io/badge/-Node.js-333?style=flat&logo=node.js) 
+![React](https://img.shields.io/badge/-React-333?style=flat&logo=react) 
+![Spring Boot](https://img.shields.io/badge/-Spring%20Boot-333?style=flat&logo=springboot)
+
+**Databases:**  
+![MongoDB](https://img.shields.io/badge/-MongoDB-333?style=flat&logo=mongodb) 
+![MySQL](https://img.shields.io/badge/-MySQL-333?style=flat&logo=mysql) 
+![Redis](https://img.shields.io/badge/-Redis-333?style=flat&logo=redis)
+
+**Tools:**  
+![GitHub](https://img.shields.io/badge/-GitHub-333?style=flat&logo=github) 
+![Docker](https://img.shields.io/badge/-Docker-333?style=flat&logo=docker) 
+![Postman](https://img.shields.io/badge/-Postman-333?style=flat&logo=postman)
+
+---
+
+## 📌 Featured Projects
+
+### 📍 [Kanban Board – MERN Stack](https://github.com/DucSang404/Trello_Web_MERN_Stack)
+A full-stack Kanban board with draggable columns/cards, real-time interaction, and secure authentication.  
+**Tech:** MERN Stack, JWT, OAuth2, ESLint  
+
+### 📍 [Hotel Booking Web – Java & Spring](https://github.com/DucSang404/DAS_HotelManagement)
+Hotel booking platform with room management, booking, and payment features.  
+**Tech:** Spring Boot, React.js, MySQL, Redis, Docker  
+
+---
+
+## 📊 GitHub Stats
 <p align="center">
-  <img src="./images/myself3.png" alt="Nguyễn Đức Sang" />
+  <img height="160" src="https://github-readme-stats.vercel.app/api?username=DucSang404&show_icons=true&theme=tokyonight" />
+  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DucSang404&layout=compact&theme=tokyonight" />
 </p>
 
-<table width="100%">
-  <tr>
-    <!-- Cột trái: About Me + Skills -->
-    <td width="50%" style="vertical-align: top; padding-right: 20px;">
-      <h3>🔹 About Me</h3>
-      <p>📚 Final-year student in <strong>Information Technology</strong> at <strong>Ho Chi Minh City University of Technology and Education (HCMUTE)</strong>.</p>
-      <h4>🚀 Highlights</h4>
-      <ul>
-        <li>💡 Passionate about <strong>Full-Stack Web Development</strong> with Java, Spring Boot, Node.js, and React.</li>
-        <li>🔧 Skilled in building real-world apps with clean architecture & RESTful APIs.</li>
-        <li>📦 Familiar with Agile, Git workflow, and CI/CD practices.</li>
-      </ul>
-      <p>📄 <strong>Curriculum Vitae:</strong> 
-        <a href="https://www.topcv.vn/xem-cv/WVUGUwdSUgwFDlZWAFBXAwJSBlANBAQLU10OAA139c" target="_blank">View My CV</a>
-      </p>
-      <h3>📬 Connect with me</h3>
-      <p>
-        <a href="https://www.linkedin.com/in/sang-nguyen-duc-667892357/">
-          <img src="https://img.shields.io/badge/LinkedIn-%230A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white" />
-        </a>
-        <a href="https://www.facebook.com/nguyenducsangg">
-          <img src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=facebook&logoColor=white" />
-        </a>
-        <a href="https://www.instagram.com/ds_ngg48/">
-          <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white" />
-        </a>
-      </p>
-      <h3>👨‍💻 Skills</h3>
-        <!-- Programming Languages -->
-        <h4>🖥 Programming Languages</h4>
-        <div style="display: flex; flex-wrap: wrap; gap: 15px;">
-          <div align="center"><img src="https://techstack-generator.vercel.app/java-icon.svg" width="50"/><br>Java</div>
-          <div align="center"><img src="https://techstack-generator.vercel.app/js-icon.svg" width="50"/><br>JavaScript</div>
-          <div align="center"><img src="https://techstack-generator.vercel.app/python-icon.svg" width="50"/><br>Python</div>
-          <div align="center"><img src="https://techstack-generator.vercel.app/cpp-icon.svg" width="50"/><br>C++</div>
-          <div align="center"><img src="https://techstack-generator.vercel.app/csharp-icon.svg" width="50"/><br>C#</div>
-        </div>
-        <!-- Web Technologies -->
-        <h4>🌐 Web Technologies</h4>
-        <div style="display: flex; gap: 10px; flex-wrap: wrap;">
-          <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
-          <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
-          <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white">
-        </div>
-        <!-- Frameworks -->
-        <h4>⚙ Frameworks</h4>
-        <div style="display: flex; flex-wrap: wrap; gap: 15px;">
-          <div align="center"><img src="https://icon.icepanel.io/Technology/svg/Spring.svg" width="50"/><br>Spring</div>
-          <div align="center"><img src="https://icon.icepanel.io/Technology/svg/Node.js.svg" width="50"/><br>Node.js</div>
-          <div align="center"><img src="https://icon.icepanel.io/Technology/svg/React.svg" width="50"/><br>React</div>
-          <div align="center"><img src="https://icon.icepanel.io/Technology/svg/React-Bootstrap.svg" width="50"/><br>React Bootstrap</div>
-        </div>
-        <!-- Databases -->
-        <h4>💾 Databases</h4>
-        <div style="display: flex; flex-wrap: wrap; gap: 15px;">
-          <div align="center"><img src="https://icon.icepanel.io/Technology/svg/MongoDB.svg" width="50"/><br>MongoDB</div>
-          <div align="center"><img src="https://icon.icepanel.io/Technology/svg/MySQL.svg" width="50"/><br>MySQL</div>
-          <div align="center"><img src="https://icon.icepanel.io/Technology/svg/Redis.svg" width="50"/><br>Redis</div>
-          <div align="center"><img src="https://icon.icepanel.io/Technology/svg/Microsoft-SQL-Server.svg" width="50"/><br>SQL Server</div>
-          <div align="center"><img src="https://icon.icepanel.io/Technology/svg/Firebase.svg" width="50"/><br>Firebase</div>
-        </div>
-        <!-- Tools -->
-        <h4>🛠 Tools</h4>
-        <div style="display: flex; flex-wrap: wrap; gap: 15px;">
-          <div align="center"><img src="https://icon.icepanel.io/Technology/svg/GitHub.svg" width="50"/><br>GitHub</div>
-          <div align="center"><img src="https://icon.icepanel.io/Technology/svg/Docker.svg" width="50"/><br>Docker</div>
-          <div align="center"><img src="https://icon.icepanel.io/Technology/svg/Postman.svg" width="50"/><br>Postman</div>
-          <div align="center"><img src="https://icon.icepanel.io/Technology/svg/Jira.svg" width="50"/><br>Jira</div>
-        </div>
-    </td>
-    <!-- Cột phải: GitHub Stats -->
-    <td width="50%" style="vertical-align: top;">
-      <h3>📊 GitHub Stats</h3>
-      <p align="center">
-        <img src="https://github-readme-stats.vercel.app/api?username=DucSang404&show_icons=true&theme=radical" alt="GitHub stats" width="80%" />
-      </p>
-      <p align="center">
-        <img src="https://github-readme-streak-stats.herokuapp.com/?user=DucSang404&theme=radical" alt="GitHub streak" width="80%" />
-      </p>
-      <p align="center">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DucSang404&layout=compact&theme=radical" alt="Top languages" width="80%" />
-      </p>
-    </td>
-  </tr>
-</table>
+---
+
+## 📫 Connect with Me
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-333?style=flat&logo=linkedin)](https://www.linkedin.com/)  
+[![Gmail](https://img.shields.io/badge/-Gmail-333?style=flat&logo=gmail)](mailto:ndsang404@gmail.com)  
+[![GitHub](https://img.shields.io/badge/-GitHub-333?style=flat&logo=github)](https://github.com/DucSang404)  
+
+---
+
+![Footer](https://capsule-render.vercel.app/api?type=waving&color=0:3a0ca3,100:4361ee&height=120&section=footer)

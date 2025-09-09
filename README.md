@@ -16,7 +16,6 @@
 💻 Passionate about building **scalable, user-friendly web applications**  
 🚀 Skilled in both **Frontend & Backend** development  
 🌱 Always learning new technologies and improving my craft  
-📄 Resume: [View My CV](https://drive.google.com/file/d/1FujeAI67xT8UL1MLy8KoOXX140BK6Lyg/view?usp=drive_link)
 
 ## 🛠 Tech Stack
 
@@ -40,20 +39,6 @@
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white) &nbsp; 
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)  
 
-
-<!-- ## 🛠 Tech Stack
-
-**Languages:**  
-![JavaScript](https://img.shields.io/badge/-JavaScript-333?style=flat&logo=javascript) ![Java](https://img.shields.io/badge/-Java-333?style=flat&logo=java) ![Python](https://img.shields.io/badge/-Python-333?style=flat&logo=python)  
-
-**Frameworks & Libraries:**  
-![Node.js](https://img.shields.io/badge/-Node.js-333?style=flat&logo=node.js) ![React](https://img.shields.io/badge/-React-333?style=flat&logo=react) ![Spring Boot](https://img.shields.io/badge/-Spring%20Boot-333?style=flat&logo=springboot)  
-
-**Databases:**  
-![MongoDB](https://img.shields.io/badge/-MongoDB-333?style=flat&logo=mongodb) ![MySQL](https://img.shields.io/badge/-MySQL-333?style=flat&logo=mysql) ![Redis](https://img.shields.io/badge/-Redis-333?style=flat&logo=redis)  
-
-**Tools:**  
-![GitHub](https://img.shields.io/badge/-GitHub-333?style=flat&logo=github) ![Docker](https://img.shields.io/badge/-Docker-333?style=flat&logo=docker) ![Postman](https://img.shields.io/badge/-Postman-333?style=flat&logo=postman)   -->
 
 
 ## 📌 Featured Projects
